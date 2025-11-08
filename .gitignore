@@ -361,4 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+<<<<<<< HEAD
+/RustedWikiBot/appsettings.json
+=======
+
+RustedWikiBot/appsettings.json
+>>>>>>> 2619c71a8562f43b097cb497eae39bde56f778ed
 /RustedWikiBot/appsettings.json
